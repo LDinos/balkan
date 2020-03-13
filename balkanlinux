@@ -1,0 +1,2 @@
+#!/bin/bash
+wine darkplaces.exe -game Balkan 
