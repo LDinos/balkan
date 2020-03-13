@@ -1,0 +1,13 @@
+Args: "C:\Users\LDinos\Desktop\darkplaces modding\Balkan\fteqcc.exe"
+FTEQCC: 5647 (2020-03-08T18:10:50.929903Z)
+Source file: progs.src
+outputfile: ../progs.dat
+compiling basic/defs.QC
+compiling basic/main.QC
+compiling basic/impulses.QC
+compiling basic/client.QC
+compiling basic/dummys.QC
+basic/defs.QC:369: warning Q302: entity activator  no references.
+basic/defs.QC:370: warning Q302: string string_null  no references.
+Compile finished: ../progs.dat (id format)
+Done. 2 warnings

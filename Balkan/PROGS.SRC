@@ -1,0 +1,8 @@
+../progs.dat                                        // Output File
+
+basic/defs.QC                                             // Definitions
+basic/main.QC                                             // Main subroutines
+basic/impulses.QC					  // Player Impulse Commands
+basic/client.QC                                           // Client subroutines
+basic/dummys.QC                                           // Null spawn functions
+

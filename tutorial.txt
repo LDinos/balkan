@@ -1,0 +1,7 @@
+1) katevase to darkplaces
+2) katevase to quake (na exeis ta .pak)
+3) vale to darkplaces se enan fakelo (px "kolos") kai ftiakse enan fakelo mesa sto kolos pou legetai id1. sto id1 kane unpack ta .pak tou quake.
+4) svise ta progs.dat kai to quake.rc
+5) kane neo fakelo ston kolos pou 8a einai to mod sou
+6) kane extract to source.zip tou mallia ekei mesa, katevase ena Fteqccgui pou einai 64 bit kai kanto replace
+7) katevase map editor (gtk radiant)
